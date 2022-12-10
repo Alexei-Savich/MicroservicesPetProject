@@ -1,0 +1,23 @@
+
+E
+java:S3740I"/Provide the parametrized type for this generic.(âÄñ
+E
+java:S1066."/Merge this if statement with the enclosing one.(¢Òå
+J
+java:S1066T"/Merge this if statement with the enclosing one.(ÿ’ã«øÿÿÿÿ
+\
+java:S2259."FA "NullPointerException" could be thrown; "getBody()" can return null.(¢Òå
+\
+java:S2259Y"FA "NullPointerException" could be thrown; "getBody()" can return null.(¼¹´§
+a
+java:S2259T"FA "NullPointerException" could be thrown; "getBody()" can return null.(ÿ’ã«øÿÿÿÿ
+a
+java:S22592"FA "NullPointerException" could be thrown; "getBody()" can return null.(¹‹ĞÄûÿÿÿÿ
+a
+java:S22591"FA "NullPointerException" could be thrown; "getBody()" can return null.(¤ “¸ıÿÿÿÿ
+\
+java:S22593"FA "NullPointerException" could be thrown; "getBody()" can return null.(®¿šñ
+D
+java:S1172;")Remove this unused method parameter "id".(¶öÒ“øÿÿÿÿ
+E
+java:S1172c"*Remove this unused method parameter "sku".(“úÔùÿÿÿÿ
